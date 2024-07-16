@@ -1,0 +1,15 @@
+h1{
+  color: rgb(31, 83, 150);
+}
+div
+{
+background: rgb(84, 118, 203);
+} 
+p{
+  color: #38859f;
+}
+hr{
+  border-color: rgb(171, 199, 233);
+  border-width: 8px;
+  border-style: double;
+}
